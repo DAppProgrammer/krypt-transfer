@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DAppProgrammer/krypt-transfer/static/css/main.f0b4487f.css",
+    "main.js": "/DAppProgrammer/krypt-transfer/static/js/main.09f78e96.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/DAppProgrammer/krypt-transfer/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/eth-coin.png": "/DAppProgrammer/krypt-transfer/static/media/eth-coin.566ff1226e67a14ce33d.png",
+    "index.html": "/DAppProgrammer/krypt-transfer/index.html",
+    "main.f0b4487f.css.map": "/DAppProgrammer/krypt-transfer/static/css/main.f0b4487f.css.map",
+    "main.09f78e96.js.map": "/DAppProgrammer/krypt-transfer/static/js/main.09f78e96.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/DAppProgrammer/krypt-transfer/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0b4487f.css",
+    "static/js/main.09f78e96.js"
+  ]
+}
